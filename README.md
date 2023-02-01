@@ -3,7 +3,7 @@
 Le but de ce répertoire est de mieux utiliser git en réalisant les applications de la formation disponible au lien suivant. 
 https://inseefrlab.github.io/formation-bonnes-pratiques-git/#/application-0
 
-Pour l'instant, j'ai réalisé les applications 1 et 2. 
+Pour l'instant, j'ai réalisé les applications 0, 1 et 2. 
 
 Remarques à ce stade : 
 - Pour aller chercher le token, l'interface était différente. Tout en bas à gauche, cliquer sur developer_settings, puis token. 
