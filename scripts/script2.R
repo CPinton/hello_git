@@ -1,6 +1,6 @@
 
 
-liste_infos = c("git", "Rstudio", "Onixia", "R", "Python", "Juyter")
+liste_infos = c("git", "Rstudio", "Onixia", "R", "Python")
 sas = "SAS"
 
 if (sas %in% liste_infos) {
@@ -18,3 +18,6 @@ if (length(alpha == length(beta))){
   print(gamma)
 }
 
+# Troisième modification 
+
+df = data.frame(cbind(alpha, beta, liste_infos))
